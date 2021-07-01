@@ -15,7 +15,6 @@ dic = {"lek": "L",
        "koruna": "Kč",
        "krone": "kr",
        "pound": "£",
-
        "euro": "€",
        "cedi": "¢",
        "guatemala": "Q",
@@ -39,17 +38,13 @@ dic = {"lek": "L",
        "zloty": "zł",
        "riyal": "QR",
        "leu": "L",
-
-
-
        "rand": "R",
-
        "baht": "฿",
        "lira": "₺",
        "hryvnia": "₴",
        "sterling": "£",
        "uzbekistan": "UZS",
        "fuerte": "Bs F",
-       "dong": "₫",
+       "dong": "₫"
 
        }
